@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Raúl RC</title>
+    <link>http://rcruces.github.io/post/</link>
+    <description>Recent content in Research on Raúl RC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://rcruces.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://rcruces.github.io/post/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rcruces.github.io/post/cv/</guid>
+      <description>You can find the latest version of my curriculum vitae in this section.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://rcruces.github.io/post/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rcruces.github.io/post/publications/</guid>
+      <description>A selection of my recent publications, for the complete list visit my CV or schoolar.
+               Recent publications (2021) Park B, Larivière S, Rodriguez-Cruces R, Royer J, Tavakol S, Wang Y, et al. (2021). Topographic divergence of atypical cortical asymmetry and atrophy patterns in temporal lobe epilepsy; Brain.
+Park B, Bethlehem RAI, Paquola C, Larivière S, Rodríguez-Cruces R, Vos de Wael R, Neuroscience in Psychiatry Network (NSPN) Consortium, Bullmore ET, Bernhardt B.</description>
+    </item>
+    
+  </channel>
+</rss>
